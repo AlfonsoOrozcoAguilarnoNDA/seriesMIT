@@ -5,6 +5,7 @@ Alfonso Orozco Aguilar
 Experimento de revisar estado de streaming de series, y el control por LLM
 https://vibecodingmexico.com/pruebalo-ya-visor-de-series/
  Generado por Claude Sonnet 5.5 el 07/10/2026
+*/
 
 require_once 'config.php';
 
