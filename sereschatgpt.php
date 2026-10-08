@@ -5,6 +5,7 @@ Alfonso Orozco Aguilar
 Experimento de revisar estado de streaming de series, y el control por LLM
 https://vibecodingmexico.com/pruebalo-ya-visor-de-series/
 CHatgpt no especifica modelo
+Se identifica a si mismo como Generado por GPT-5.6 Luna el 2026-10-07
 */
 require_once 'config.php';
 
