@@ -1,2 +1,5 @@
 # seriesMIT
-Experimento de Vinecoding con varias IA a la vez
+Experimento de Vibecoding con varias IA a la vez
+https://vibecodingmexico.com/pruebalo-ya-visor-de-series/
+
+
