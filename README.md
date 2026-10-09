@@ -1,3 +1,5 @@
+![Logo de Vibe Coding México](seriesimagegrok.jpg)
+
 # 📺 Prueba de Vibecoding: control de series en streaming
 
 [![PHP Version](https://img.shields.io/badge/php-8.x-8892bf.svg)](https://www.php.net/)
