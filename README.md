@@ -139,7 +139,7 @@ El prompt completo está en el post. Resumen de requerimientos:
 
 ## ⚙️ Uso
 
-1. Crea tu `config.php` a partir del ejemplo del repositorio (debe definir la conexión mysqli en `$link`).
+1. Crea tu `config.php` a partir del ejemplo del repositorio config-sample.php (debe definir la conexión mysqli en `$link`).
 2. Sube al servidor el archivo `.php` que quieras probar.
 3. Ábrelo en el navegador. Los archivos que corren crean la tabla `series` si no existe.
 4. Usa `review.php` para ver el código de cada archivo.
